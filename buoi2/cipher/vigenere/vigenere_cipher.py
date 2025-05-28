@@ -1,3 +1,5 @@
+from cipher.vigenere.vigenere_cipher import CaesarCipher
+
 class VigenereCipher:
     def __init__(self):
         pass
